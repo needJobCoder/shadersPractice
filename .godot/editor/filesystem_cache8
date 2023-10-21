@@ -1,0 +1,16 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1697871423
+icon.svg::CompressedTexture2D::6317800192672392306::1697723140::1697723145::1::::<><>::
+practiceShader3.gdshader::Shader::-1::1697871548::0::1::::<><>::
+::res://Scenes/::1697848917
+node_2d.gdshader::Shader::-1::1697803819::0::1::::<><>::
+node_2d.tscn::PackedScene::8588225794668968008::1697827416::0::1::::<><>::res://shaders/practiceShaders.gdshader<>res://shaders/node_2d.gdshader
+sprite_2d(1).tscn::PackedScene::178678864470032802::1697827416::0::1::::<><>::res://shaders/practiceShader2.gdshader<>uid://cwanimr66mbli::::res://icon.svg
+sprite_2d.tscn::PackedScene::4538486036391539581::1697827416::0::1::::<><>::res://shaders/practice.gdshader<>uid://cwanimr66mbli::::res://icon.svg
+texture_rect.tscn::PackedScene::3630553051705171128::1697848917::0::1::::<><>::res://shaders/fadeAttempt.gdshader<>uid://cwanimr66mbli::::res://icon.svg
+::res://shaders/::1697848917
+fadeAttempt.gdshader::Shader::-1::1697848917::0::1::::<><>::
+node_2d.gdshader::Shader::-1::1697848917::0::1::::<><>::
+practice.gdshader::Shader::-1::1697848917::0::1::::<><>::
+practiceShader2.gdshader::Shader::-1::1697848917::0::1::::<><>::
+practiceShaders.gdshader::Shader::-1::1697848917::0::1::::<><>::

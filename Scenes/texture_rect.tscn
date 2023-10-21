@@ -1,0 +1,13 @@
+[gd_scene load_steps=4 format=3 uid="uid://brywxcfelgjdo"]
+
+[ext_resource type="Shader" path="res://shaders/fadeAttempt.gdshader" id="1_h0pc2"]
+[ext_resource type="Texture2D" uid="uid://cwanimr66mbli" path="res://icon.svg" id="2_180u7"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_denv1"]
+shader = ExtResource("1_h0pc2")
+
+[node name="TextureRect" type="Sprite2D"]
+material = SubResource("ShaderMaterial_denv1")
+position = Vector2(293.125, 493.375)
+scale = Vector2(13.4824, 10.3535)
+texture = ExtResource("2_180u7")

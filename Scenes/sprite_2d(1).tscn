@@ -1,0 +1,16 @@
+[gd_scene load_steps=4 format=3 uid="uid://css2x5utjv0e"]
+
+[ext_resource type="Shader" path="res://shaders/practiceShader2.gdshader" id="1_jqyie"]
+[ext_resource type="Texture2D" uid="uid://cwanimr66mbli" path="res://icon.svg" id="2_avelj"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_qt677"]
+shader = ExtResource("1_jqyie")
+
+[node name="Sprite2D" type="TextureRect"]
+material = SubResource("ShaderMaterial_qt677")
+offset_left = 455.0
+offset_top = 255.0
+offset_right = 737.0
+offset_bottom = 424.0
+texture = ExtResource("2_avelj")
+stretch_mode = 1
